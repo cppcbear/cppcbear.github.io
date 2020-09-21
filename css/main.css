@@ -56,13 +56,13 @@ ul.posts li {
 table{
     border-collapse: collapse;
     font-family:'Trebuchet MS', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+    line-height: 1.4em;
     width: 75%;
 }
 
 th, td{
     padding: 8px;
-    font-size: 1em;
-    line-height: 1.4em;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
