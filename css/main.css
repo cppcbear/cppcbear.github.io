@@ -61,6 +61,7 @@ table{
 
 th, td{
     padding: 8px;
+    font-size: 0.8em;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
