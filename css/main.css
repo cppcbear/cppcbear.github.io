@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 
 nav ul, footer ul {
@@ -56,7 +56,7 @@ ul.posts li {
 table{
     border-collapse: collapse;
     font-family:'Trebuchet MS', 'Arial', 'Sans-Serif';
-    width: 75%;
+    width: 80%;
 }
 
 th, td{
